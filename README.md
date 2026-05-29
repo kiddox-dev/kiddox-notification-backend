@@ -1,6 +1,6 @@
 ﻿# kiddox-notification-backend
 
-Notification microservice ??Firebase FCM push, email (Resend), SMS.
+Notification microservice — Firebase FCM push, email (Resend), SMS.
 
 ## Tech Stack
 
@@ -13,11 +13,11 @@ Notification microservice ??Firebase FCM push, email (Resend), SMS.
 
 ## Quick Start
 
-`ash
+```bash
 pip install -e ".[dev]"
 uvicorn app.main:app --reload --port 8005
-`
+```
 
 ## License
 
-Proprietary ??Kiddox Limited
+Proprietary — Kiddox Limited
